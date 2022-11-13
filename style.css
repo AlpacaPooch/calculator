@@ -55,6 +55,9 @@ button {
     border-radius: 10px 10px 10px 10px;
 
 }
+button:hover {
+    background-color: rgb(96, 171, 154);
+}
 .eq {
     background-color: rgb(215, 188, 232);
 }
